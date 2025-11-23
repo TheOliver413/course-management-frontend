@@ -1,0 +1,875 @@
+[00:00:03.506] Server  LOG      ✓ Ready in 2.8s
+[00:00:25.521] Server  LOG      ○ Compiling / ...
+[00:00:34.536] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:41.394] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:00:42.201] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:36.679] Server  ERROR    ⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:07:36.891] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:07:44.621] Server  LOG      ○ Compiling /_error ...
+[00:07:44.656] Server  ERROR    ⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:07:44.908] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:07:46.508] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:07:46.851] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:08:49.411] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:08:49.573] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:08:50.201] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:08:50.202] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:08:50.328] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:08:50.652] Server  ERROR    ⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:08:51.647] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:08:51.859] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:08:52.366] Server  LOG      ○ Compiling /_error ...
+[00:09:11.974] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:09:12.856] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:31.383] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:09:31.846] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:46.421] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:09:46.857] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:55.022] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:09:55.859] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:59.873] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:10:00.845] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:10:19.463] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:10:19.906] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:10:21.063] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:10:21.063] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:10:21.983] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:10:22.022] Server  ERROR    ⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:10:23.311] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:10:23.860] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:10:27.031] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:10:27.847] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:03.282] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:03.393] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:04.019] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:04.020] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:04.211] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:04.561] Server  ERROR    ⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:04.590] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:05.897] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:12:06.003] Server  LOG      ○ Compiling /_error ...
+[00:12:06.854] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:08.224] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:08.531] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:09.151] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:09.151] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:09.385] Server  ERROR    ⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:09.394] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:10.378] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:12:10.850] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:17.993] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:18.763] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:19.121] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:19.122] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:19.293] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:19.533] Server  ERROR    ⨯ ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:19.548] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:20.928] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:12:21.851] Browser ERROR   ./app/layout.tsx:6:1
+Module not found: Can't resolve '@/components/theme-provider'
+  4 | import { Toaster } from "../componets/ui/toaster"
+  5 | import "./globals.css"
+> 6 | import { ThemeProvider } from "@/components/theme-provider"
+    | ^
+  7 |
+  8 | const _geist = Geist({ subsets: ["latin"] })
+  9 | const _geistMono = Geist_Mono({ subsets: ["latin"] })
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:37.642] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:39.031] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:40.352] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:41.896] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:04.068] Server  ERROR    ⨯ ./app/auth/layout.tsx:4:1
+Module not found: Can't resolve '@/components/theme-toggle'
+  2 |
+  3 | import type React from "react"
+> 4 | import { ThemeToggle } from "@/components/theme-toggle"
+    | ^
+  5 |
+  6 | export default function AuthLayout({
+  7 |     children,
+
+https://nextjs.org/docs/messages/module-not-found
+[00:13:04.167] Browser ERROR   ./app/auth/layout.tsx:4:1
+Module not found: Can't resolve '@/components/theme-toggle'
+  2 |
+  3 | import type React from "react"
+> 4 | import { ThemeToggle } from "@/components/theme-toggle"
+    | ^
+  5 |
+  6 | export default function AuthLayout({
+  7 |     children,
+
+https://nextjs.org/docs/messages/module-not-found
+[00:13:05.376] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '@/components/theme-toggle'
+  2 |
+  3 | import type React from "react"
+> 4 | import { ThemeToggle } from "@/components/theme-toggle"
+    | ^
+  5 |
+  6 | export default function AuthLayout({
+  7 |     children,
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:13:05.848] Browser ERROR   ./app/auth/layout.tsx:4:1
+Module not found: Can't resolve '@/components/theme-toggle'
+  2 |
+  3 | import type React from "react"
+> 4 | import { ThemeToggle } from "@/components/theme-toggle"
+    | ^
+  5 |
+  6 | export default function AuthLayout({
+  7 |     children,
+
+https://nextjs.org/docs/messages/module-not-found
+[00:13:09.938] Browser ERROR   ./app/auth/layout.tsx:4:1
+Module not found: Can't resolve '@/components/theme-toggle'
+  2 |
+  3 | import type React from "react"
+> 4 | import { ThemeToggle } from "@/components/theme-toggle"
+    | ^
+  5 |
+  6 | export default function AuthLayout({
+  7 |     children,
+
+https://nextjs.org/docs/messages/module-not-found
+[00:13:10.258] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:13:10.701] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:13:11.706] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:13:13.197] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:57.626] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:10.197] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:36.628] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:53.389] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:47.179] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:55.601] Browser LOG     [v0] Fetched users: {"items":[{"created_at":"2025-11-23T01:45:02.447Z","email":"admin@coursesystem.com","full_name":"System Admin","id":1,"role":"admin"},{"created_at":"2025-11-23T01:45:02.545Z","email":"user1@example.com","full_name":"John Doe","id":2,"role":"user"},{"created_at":"2025-11-23T01:45:02.546Z","email":"user2@example.com","full_name":"Jane Smith","id":3,"role":"user"},{"created_at":"2025-11-23T01:45:02.548Z","email":"user3@example.com","full_name":"Bob Johnson","id":4,"role":"user"},{"created_at":"2025-11-23T03:25:39.113Z","email":"test1763868338731@example.com","full_name":"Test User","id":5,"role":"user"},{"created_at":"2025-11-23T03:25:39.277Z","email":"login-test@example.com","full_name":"Login Test","id":6,"role":"user"},{"created_at":"2025-11-23T21:26:27.862Z","email":"oliverborda04@outlook.com","full_name":"oliver borda","id":8,"role":"user"}],"limit":10,"page":1,"pages":1,"total":7}
+[00:49:05.180] Browser LOG     [v0] Fetched programs: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[00:49:07.010] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},"users":[{"email":"user1@example.com","enrolled_at":"2025-11-23T01:45:02.571Z","full_name":"John Doe","id":2},{"email":"user2@example.com","enrolled_at":"2025-11-23T01:45:02.574Z","full_name":"Jane Smith","id":3}]}
+[00:49:08.727] Browser LOG     [v0] Fetched programs: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:06:50.434] Browser LOG     Respuesta de datos de los usuarios: {"program":{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},"users":[{"email":"user1@example.com","enrolled_at":"2025-11-23T01:45:02.571Z","full_name":"John Doe","id":2},{"email":"user2@example.com","enrolled_at":"2025-11-23T01:45:02.574Z","full_name":"Jane Smith","id":3}]}
+[01:12:32.950] Browser ERROR   ./app/(protected)/admin/users/page.tsx
+Error:   × Unterminated string constant
+     ╭─[C:\Users\olive\prueba-tecnica-fullstack-b-TheOliver413\frontend\app\(protected)\admin\users\page.tsx:194:1]
+ 191 │                                                                         className="bg-primary hover:bg-primary/90"
+ 192 │                                                                     >
+ 193 │                                                                         <Save className="w-4 h-4 mr-2" />
+ 194 │                                                                         {isSaving ? "Guardando..." : "Guardado}
+     ·                                                                                                      ──────────
+ 195 │                                                                     </Button>
+ 196 │                                                                 </div>
+ 196 │                                                             </div>
+     ╰────
+  × Unterminated regexp literal
+     ╭─[C:\Users\olive\prueba-tecnica-fullstack-b-TheOliver413\frontend\app\(protected)\admin\users\page.tsx:195:1]
+ 192 │                                                                     >
+ 193 │                                                                         <Save className="w-4 h-4 mr-2" />
+ 194 │                                                                         {isSaving ? "Guardando..." : "Guardado}
+ 195 │                                                                     </Button>
+     ·                                                                      ────────
+ 196 │                                                                 </div>
+ 197 │                                                             </div>
+ 197 │                                                         </DialogContent>
+     ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/(protected)/admin/users/page.tsx
+[01:12:34.155] Server  ERROR    ⨯ ./app/(protected)/admin/users/page.tsx
+Error:   × Unterminated string constant
+     ╭─[C:\Users\olive\prueba-tecnica-fullstack-b-TheOliver413\frontend\app\(protected)\admin\users\page.tsx:194:1]
+ 191 │                                                                         className="bg-primary hover:bg-primary/90"
+ 192 │                                                                     >
+ 193 │                                                                         <Save className="w-4 h-4 mr-2" />
+ 194 │                                                                         {isSaving ? "Guardando..." : "Guardado}
+     ·                                                                                                      ──────────
+ 195 │                                                                     </Button>
+ 196 │                                                                 </div>
+ 196 │                                                             </div>
+     ╰────
+  × Unterminated regexp literal
+     ╭─[C:\Users\olive\prueba-tecnica-fullstack-b-TheOliver413\frontend\app\(protected)\admin\users\page.tsx:195:1]
+ 192 │                                                                     >
+ 193 │                                                                         <Save className="w-4 h-4 mr-2" />
+ 194 │                                                                         {isSaving ? "Guardando..." : "Guardado}
+ 195 │                                                                     </Button>
+     ·                                                                      ────────
+ 196 │                                                                 </div>
+ 197 │                                                             </div>
+ 197 │                                                         </DialogContent>
+     ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/(protected)/admin/users/page.tsx
+[01:12:34.888] Browser ERROR   ./app/(protected)/admin/users/page.tsx
+Error:   × Unterminated string constant
+     ╭─[C:\Users\olive\prueba-tecnica-fullstack-b-TheOliver413\frontend\app\(protected)\admin\users\page.tsx:194:1]
+ 191 │                                                                         className="bg-primary hover:bg-primary/90"
+ 192 │                                                                     >
+ 193 │                                                                         <Save className="w-4 h-4 mr-2" />
+ 194 │                                                                         {isSaving ? "Guardando..." : "Guardado}
+     ·                                                                                                      ──────────
+ 195 │                                                                     </Button>
+ 196 │                                                                 </div>
+ 196 │                                                             </div>
+     ╰────
+  × Unterminated regexp literal
+     ╭─[C:\Users\olive\prueba-tecnica-fullstack-b-TheOliver413\frontend\app\(protected)\admin\users\page.tsx:195:1]
+ 192 │                                                                     >
+ 193 │                                                                         <Save className="w-4 h-4 mr-2" />
+ 194 │                                                                         {isSaving ? "Guardando..." : "Guardado}
+ 195 │                                                                     </Button>
+     ·                                                                      ────────
+ 196 │                                                                 </div>
+ 197 │                                                             </div>
+ 197 │                                                         </DialogContent>
+     ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/(protected)/admin/users/page.tsx
+[01:12:36.003] Server  ERROR    ⨯ ./app/(protected)/admin/users/page.tsx
+Error:   × Unterminated string constant
+     ╭─[C:\Users\olive\prueba-tecnica-fullstack-b-TheOliver413\frontend\app\(protected)\admin\users\page.tsx:194:1]
+ 191 │                                                                         className="bg-primary hover:bg-primary/90"
+ 192 │                                                                     >
+ 193 │                                                                         <Save className="w-4 h-4 mr-2" />
+ 194 │                                                                         {isSaving ? "Guardando..." : "Guardado}
+     ·                                                                                                      ──────────
+ 195 │                                                                     </Button>
+ 196 │                                                                 </div>
+ 196 │                                                             </div>
+     ╰────
+  × Unterminated regexp literal
+     ╭─[C:\Users\olive\prueba-tecnica-fullstack-b-TheOliver413\frontend\app\(protected)\admin\users\page.tsx:195:1]
+ 192 │                                                                     >
+ 193 │                                                                         <Save className="w-4 h-4 mr-2" />
+ 194 │                                                                         {isSaving ? "Guardando..." : "Guardado}
+ 195 │                                                                     </Button>
+     ·                                                                      ────────
+ 196 │                                                                 </div>
+ 197 │                                                             </div>
+ 197 │                                                         </DialogContent>
+     ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/(protected)/admin/users/page.tsx
+[01:12:36.033] Browser ERROR   ./app/(protected)/admin/users/page.tsx
+Error:   × Unterminated string constant
+     ╭─[C:\Users\olive\prueba-tecnica-fullstack-b-TheOliver413\frontend\app\(protected)\admin\users\page.tsx:194:1]
+ 191 │                                                                         className="bg-primary hover:bg-primary/90"
+ 192 │                                                                     >
+ 193 │                                                                         <Save className="w-4 h-4 mr-2" />
+ 194 │                                                                         {isSaving ? "Guardando..." : "Guardado}
+     ·                                                                                                      ──────────
+ 195 │                                                                     </Button>
+ 196 │                                                                 </div>
+ 196 │                                                             </div>
+     ╰────
+  × Unterminated regexp literal
+     ╭─[C:\Users\olive\prueba-tecnica-fullstack-b-TheOliver413\frontend\app\(protected)\admin\users\page.tsx:195:1]
+ 192 │                                                                     >
+ 193 │                                                                         <Save className="w-4 h-4 mr-2" />
+ 194 │                                                                         {isSaving ? "Guardando..." : "Guardado}
+ 195 │                                                                     </Button>
+     ·                                                                      ────────
+ 196 │                                                                 </div>
+ 197 │                                                             </div>
+ 197 │                                                         </DialogContent>
+     ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/(protected)/admin/users/page.tsx
+[01:12:36.950] Browser ERROR   uncaughtError: ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error:   × Unterminated string constant
+     ╭─[C:\Users\olive\prueba-tecnica-fullstack-b-TheOliver413\frontend\app\(protected)\admin\users\page.tsx:194:1]
+ 191 │                                                                         className="bg-primary hover:bg-primary/90"
+ 192 │                                                                     >
+ 193 │                                                                         <Save className="w-4 h-4 mr-2" />
+ 194 │                                                                         {isSaving ? "Guardando..." : "Guardado}
+     ·                                                                                                      ──────────
+ 195 │                                                                     </Button>
+ 196 │                                                                 </div>
+ 196 │                                                             </div>
+     ╰────
+  × Unterminated regexp literal
+     ╭─[C:\Users\olive\prueba-tecnica-fullstack-b-TheOliver413\frontend\app\(protected)\admin\users\page.tsx:195:1]
+ 192 │                                                                     >
+ 193 │                                                                         <Save className="w-4 h-4 mr-2" />
+ 194 │                                                                         {isSaving ? "Guardando..." : "Guardado}
+ 195 │                                                                     </Button>
+     ·                                                                      ────────
+ 196 │                                                                 </div>
+ 197 │                                                             </div>
+ 197 │                                                         </DialogContent>
+     ╰────
+
+
+Caused by:
+    Syntax Error
+[01:12:37.192] Server  LOG      ○ Compiling /_error ...
+[01:12:37.860] Browser ERROR   ./app/(protected)/admin/users/page.tsx
+Error:   × Unterminated string constant
+     ╭─[C:\Users\olive\prueba-tecnica-fullstack-b-TheOliver413\frontend\app\(protected)\admin\users\page.tsx:194:1]
+ 191 │                                                                         className="bg-primary hover:bg-primary/90"
+ 192 │                                                                     >
+ 193 │                                                                         <Save className="w-4 h-4 mr-2" />
+ 194 │                                                                         {isSaving ? "Guardando..." : "Guardado}
+     ·                                                                                                      ──────────
+ 195 │                                                                     </Button>
+ 196 │                                                                 </div>
+ 196 │                                                             </div>
+     ╰────
+  × Unterminated regexp literal
+     ╭─[C:\Users\olive\prueba-tecnica-fullstack-b-TheOliver413\frontend\app\(protected)\admin\users\page.tsx:195:1]
+ 192 │                                                                     >
+ 193 │                                                                         <Save className="w-4 h-4 mr-2" />
+ 194 │                                                                         {isSaving ? "Guardando..." : "Guardado}
+ 195 │                                                                     </Button>
+     ·                                                                      ────────
+ 196 │                                                                 </div>
+ 197 │                                                             </div>
+ 197 │                                                         </DialogContent>
+     ╰────
+
+Caused by:
+    Syntax Error
+[01:12:39.591] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:12:40.030] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:12:42.691] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:12:44.058] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:20.162] Browser LOG     Programas recuperados: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:20:22.452] Browser LOG     Usuarios recuperados: {"items":[{"created_at":"2025-11-23T01:45:02.447Z","email":"admin@coursesystem.com","full_name":"System Admin","id":1,"role":"admin"},{"created_at":"2025-11-23T01:45:02.545Z","email":"user1@example.com","full_name":"John Doe","id":2,"role":"user"},{"created_at":"2025-11-23T01:45:02.546Z","email":"user2@example.com","full_name":"Jane Smith","id":3,"role":"user"},{"created_at":"2025-11-23T01:45:02.548Z","email":"user3@example.com","full_name":"Bob Johnson","id":4,"role":"user"},{"created_at":"2025-11-23T03:25:39.113Z","email":"test1763868338731@example.com","full_name":"Test User","id":5,"role":"user"},{"created_at":"2025-11-23T03:25:39.277Z","email":"login-test@example.com","full_name":"Login Test","id":6,"role":"user"},{"created_at":"2025-11-23T21:26:27.862Z","email":"oliverborda04@outlook.com","full_name":"oliver borda","id":8,"role":"user"}],"limit":10,"page":1,"pages":1,"total":7}
+[01:27:26.544] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:27:28.095] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:28:27.388] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:30:40.395] Browser LOG     Programas recuperados: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:30:54.666] Browser LOG     Respuesta de datos de los usuarios: {"program":{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},"users":[{"email":"user1@example.com","enrolled_at":"2025-11-23T01:45:02.571Z","full_name":"John Doe","id":2},{"email":"user2@example.com","enrolled_at":"2025-11-23T01:45:02.574Z","full_name":"Jane Smith","id":3}]}
+[01:32:57.058] Browser LOG     Usuarios recuperados: {"items":[{"created_at":"2025-11-23T01:45:02.447Z","email":"admin@coursesystem.com","full_name":"System Admin","id":1,"role":"admin"},{"created_at":"2025-11-23T01:45:02.545Z","email":"user1@example.com","full_name":"John Doe","id":2,"role":"user"},{"created_at":"2025-11-23T01:45:02.546Z","email":"user2@example.com","full_name":"Jane Smith","id":3,"role":"user"},{"created_at":"2025-11-23T01:45:02.548Z","email":"user3@example.com","full_name":"Bob Johnson","id":4,"role":"user"},{"created_at":"2025-11-23T03:25:39.113Z","email":"test1763868338731@example.com","full_name":"Test User","id":5,"role":"user"},{"created_at":"2025-11-23T03:25:39.277Z","email":"login-test@example.com","full_name":"Login Test","id":6,"role":"user"},{"created_at":"2025-11-23T21:26:27.862Z","email":"oliverborda04@outlook.com","full_name":"oliver borda","id":8,"role":"user"}],"limit":10,"page":1,"pages":1,"total":7}
+[01:33:55.014] Browser LOG     Programas recuperados: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:36:56.317] Browser LOG     Respuesta de datos de los usuarios: {"program":{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},"users":[{"email":"user1@example.com","enrolled_at":"2025-11-23T01:45:02.571Z","full_name":"John Doe","id":2},{"email":"user2@example.com","enrolled_at":"2025-11-23T01:45:02.574Z","full_name":"Jane Smith","id":3}]}
+[01:36:57.904] Browser LOG     Programas recuperados: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:37:52.573] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:37:52.964] Browser LOG     Programas recuperados: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:37:55.841] Browser LOG     Respuesta de datos de los usuarios: {"program":{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T01:45:02.567Z","full_name":"System Admin","id":1},{"email":"user1@example.com","enrolled_at":"2025-11-23T01:45:02.569Z","full_name":"John Doe","id":2}]}
+[01:37:56.802] Browser LOG     Programas recuperados: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:38:22.991] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:38:23.398] Browser LOG     Programas recuperados: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:38:24.983] Browser LOG     Usuarios recuperados: {"items":[{"created_at":"2025-11-23T01:45:02.447Z","email":"admin@coursesystem.com","full_name":"System Admin","id":1,"role":"admin"},{"created_at":"2025-11-23T01:45:02.545Z","email":"user1@example.com","full_name":"John Doe","id":2,"role":"user"},{"created_at":"2025-11-23T01:45:02.546Z","email":"user2@example.com","full_name":"Jane Smith","id":3,"role":"user"},{"created_at":"2025-11-23T01:45:02.548Z","email":"user3@example.com","full_name":"Bob Johnson","id":4,"role":"user"},{"created_at":"2025-11-23T03:25:39.113Z","email":"test1763868338731@example.com","full_name":"Test User","id":5,"role":"user"},{"created_at":"2025-11-23T03:25:39.277Z","email":"login-test@example.com","full_name":"Login Test","id":6,"role":"user"},{"created_at":"2025-11-23T21:26:27.862Z","email":"oliverborda04@outlook.com","full_name":"oliver borda","id":8,"role":"user"}],"limit":10,"page":1,"pages":1,"total":7}
+[01:38:52.243] Browser LOG     Programas recuperados: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:38:53.784] Browser LOG     Respuesta de datos de los usuarios: {"program":{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T01:45:02.567Z","full_name":"System Admin","id":1},{"email":"user1@example.com","enrolled_at":"2025-11-23T01:45:02.569Z","full_name":"John Doe","id":2}]}
+[01:42:17.097] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:42:17.545] Browser LOG     Respuesta de datos de los usuarios: {"program":{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T01:45:02.567Z","full_name":"System Admin","id":1},{"email":"user1@example.com","enrolled_at":"2025-11-23T01:45:02.569Z","full_name":"John Doe","id":2}]}
+[01:42:29.946] Browser LOG     [v0] Fetched programs: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:42:37.883] Browser LOG     Respuesta de datos de los usuarios: {"program":{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},"users":[{"email":"user1@example.com","enrolled_at":"2025-11-23T01:45:02.571Z","full_name":"John Doe","id":2},{"email":"user2@example.com","enrolled_at":"2025-11-23T01:45:02.574Z","full_name":"Jane Smith","id":3}]}
+[01:42:39.286] Browser LOG     [v0] Fetched programs: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:42:45.831] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:42:46.248] Browser LOG     [v0] Fetched programs: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:45:07.185] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:07.603] Browser LOG     [v0] Programas obtenidos: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:45:10.217] Browser LOG     Respuesta de datos de los usuarios: {"program":{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},"users":[{"email":"user1@example.com","enrolled_at":"2025-11-23T01:45:02.571Z","full_name":"John Doe","id":2},{"email":"user2@example.com","enrolled_at":"2025-11-23T01:45:02.574Z","full_name":"Jane Smith","id":3}]}
+[01:45:26.386] Browser LOG     [v0] Programas obtenidos: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:49:07.416] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:49:08.737] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:49:09.156] Browser LOG     [v0] Programas obtenidos: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:50:03.635] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:50:04.018] Browser LOG     [v0] Programas obtenidos: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:50:05.824] Browser LOG     Respuesta de datos de los usuarios: {"program":{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},"users":[{"email":"user1@example.com","enrolled_at":"2025-11-23T01:45:02.571Z","full_name":"John Doe","id":2},{"email":"user2@example.com","enrolled_at":"2025-11-23T01:45:02.574Z","full_name":"Jane Smith","id":3}]}
+[01:56:09.547] Browser LOG     [v0] Fetching available users for program: 3
+[01:56:09.807] Browser LOG     [v0] All users fetched: {"items":[{"created_at":"2025-11-23T01:45:02.447Z","email":"admin@coursesystem.com","full_name":"System Admin","id":1,"role":"admin"},{"created_at":"2025-11-23T01:45:02.545Z","email":"user1@example.com","full_name":"John Doe","id":2,"role":"user"},{"created_at":"2025-11-23T01:45:02.546Z","email":"user2@example.com","full_name":"Jane Smith","id":3,"role":"user"},{"created_at":"2025-11-23T01:45:02.548Z","email":"user3@example.com","full_name":"Bob Johnson","id":4,"role":"user"},{"created_at":"2025-11-23T03:25:39.113Z","email":"test1763868338731@example.com","full_name":"Test User","id":5,"role":"user"},{"created_at":"2025-11-23T03:25:39.277Z","email":"login-test@example.com","full_name":"Login Test","id":6,"role":"user"},{"created_at":"2025-11-23T21:26:27.862Z","email":"oliverborda04@outlook.com","full_name":"oliver borda","id":8,"role":"user"}],"limit":100,"page":1,"pages":1,"total":7}
+[01:56:09.807] Browser LOG     [v0] Enrolled users fetched: {"program":{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},"users":[{"email":"user1@example.com","enrolled_at":"2025-11-23T01:45:02.571Z","full_name":"John Doe","id":2},{"email":"user2@example.com","enrolled_at":"2025-11-23T01:45:02.574Z","full_name":"Jane Smith","id":3}]}
+[01:56:13.712] Browser LOG     [v0] Enrolling user: 1 to program: 3
+[01:56:13.712] Browser LOG     [v0] User enrolled successfully
+[01:56:13.925] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:06:37.768Z","full_name":"System Admin","id":1},{"email":"user1@example.com","enrolled_at":"2025-11-23T01:45:02.571Z","full_name":"John Doe","id":2},{"email":"user2@example.com","enrolled_at":"2025-11-23T01:45:02.574Z","full_name":"Jane Smith","id":3}]}
+[01:56:38.364] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:56:38.748] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:06:37.768Z","full_name":"System Admin","id":1},{"email":"user1@example.com","enrolled_at":"2025-11-23T01:45:02.571Z","full_name":"John Doe","id":2},{"email":"user2@example.com","enrolled_at":"2025-11-23T01:45:02.574Z","full_name":"Jane Smith","id":3}]}
+[01:56:42.487] Browser LOG     [v0] Fetched users: {"items":[{"created_at":"2025-11-23T01:45:02.447Z","email":"admin@coursesystem.com","full_name":"System Admin","id":1,"role":"admin"},{"created_at":"2025-11-23T01:45:02.545Z","email":"user1@example.com","full_name":"John Doe","id":2,"role":"user"},{"created_at":"2025-11-23T01:45:02.546Z","email":"user2@example.com","full_name":"Jane Smith","id":3,"role":"user"},{"created_at":"2025-11-23T01:45:02.548Z","email":"user3@example.com","full_name":"Bob Johnson","id":4,"role":"user"},{"created_at":"2025-11-23T03:25:39.113Z","email":"test1763868338731@example.com","full_name":"Test User","id":5,"role":"user"},{"created_at":"2025-11-23T03:25:39.277Z","email":"login-test@example.com","full_name":"Login Test","id":6,"role":"user"},{"created_at":"2025-11-23T21:26:27.862Z","email":"oliverborda04@outlook.com","full_name":"oliver borda","id":8,"role":"user"}],"limit":10,"page":1,"pages":1,"total":7}
+[01:57:17.414] Browser LOG     [v0] Fetched programs: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"}],"limit":10,"page":1,"pages":1,"total":4}
+[01:57:30.398] Browser LOG     [v0] Creating course with data: {"description":"prueba","name":"Test","startDate":"2025-11-23","status":"active"}
+[01:57:30.398] Browser LOG     [v0] Course created successfully: {"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"}
+[01:57:30.547] Browser LOG     [v0] Fetched programs: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"}],"limit":10,"page":1,"pages":1,"total":5}
+[01:57:47.122] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[]}
+[01:57:51.652] Browser LOG     [v0] Fetching available users for program: 6
+[01:57:51.652] Browser LOG     [v0] All users fetched: {"items":[{"created_at":"2025-11-23T01:45:02.447Z","email":"admin@coursesystem.com","full_name":"System Admin","id":1,"role":"admin"},{"created_at":"2025-11-23T01:45:02.545Z","email":"user1@example.com","full_name":"John Doe","id":2,"role":"user"},{"created_at":"2025-11-23T01:45:02.546Z","email":"user2@example.com","full_name":"Jane Smith","id":3,"role":"user"},{"created_at":"2025-11-23T01:45:02.548Z","email":"user3@example.com","full_name":"Bob Johnson","id":4,"role":"user"},{"created_at":"2025-11-23T03:25:39.113Z","email":"test1763868338731@example.com","full_name":"Test User","id":5,"role":"user"},{"created_at":"2025-11-23T03:25:39.277Z","email":"login-test@example.com","full_name":"Login Test","id":6,"role":"user"},{"created_at":"2025-11-23T21:26:27.862Z","email":"oliverborda04@outlook.com","full_name":"oliver borda","id":8,"role":"user"}],"limit":100,"page":1,"pages":1,"total":7}
+[01:57:51.652] Browser LOG     [v0] Enrolled users fetched: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[]}
+[01:57:56.133] Browser LOG     [v0] Enrolling user: 1 to program: 6
+[01:57:56.133] Browser LOG     [v0] User enrolled successfully
+[01:57:56.294] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:08:20.195Z","full_name":"System Admin","id":1}]}
+[01:58:02.245] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:58:02.562] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:08:20.195Z","full_name":"System Admin","id":1}]}
+[01:58:47.452] Browser LOG     [v0] Fetched programs: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"}],"limit":10,"page":1,"pages":1,"total":5}
+[01:58:56.365] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:58:56.657] Browser LOG     [v0] Fetched programs: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"}],"limit":10,"page":1,"pages":1,"total":5}
+[01:59:19.460] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:08:20.195Z","full_name":"System Admin","id":1}]}
+[01:59:46.254] Browser LOG     [v0] Fetching available users for program: 6
+[01:59:46.456] Browser LOG     [v0] All users fetched: {"items":[{"created_at":"2025-11-23T01:45:02.447Z","email":"admin@coursesystem.com","full_name":"System Admin","id":1,"role":"admin"},{"created_at":"2025-11-23T01:45:02.545Z","email":"user1@example.com","full_name":"John Doe","id":2,"role":"user"},{"created_at":"2025-11-23T01:45:02.546Z","email":"user2@example.com","full_name":"Jane Smith","id":3,"role":"user"},{"created_at":"2025-11-23T01:45:02.548Z","email":"user3@example.com","full_name":"Bob Johnson","id":4,"role":"user"},{"created_at":"2025-11-23T03:25:39.113Z","email":"test1763868338731@example.com","full_name":"Test User","id":5,"role":"user"},{"created_at":"2025-11-23T03:25:39.277Z","email":"login-test@example.com","full_name":"Login Test","id":6,"role":"user"},{"created_at":"2025-11-23T21:26:27.862Z","email":"oliverborda04@outlook.com","full_name":"oliver borda","id":8,"role":"user"}],"limit":100,"page":1,"pages":1,"total":7}
+[01:59:46.456] Browser LOG     [v0] Enrolled users fetched: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:08:20.195Z","full_name":"System Admin","id":1}]}
+[01:59:48.507] Browser LOG     [v0] Enrolling user: 8 to program: 6
+[01:59:48.507] Browser LOG     [v0] User enrolled successfully
+[01:59:48.734] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:08:20.195Z","full_name":"System Admin","id":1},{"email":"oliverborda04@outlook.com","enrolled_at":"2025-11-23T23:10:12.561Z","full_name":"oliver borda","id":8}]}
+[01:59:54.308] Server  LOG      ○ Compiling /auth/login ...
+[02:01:52.830] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:02:14.834] Browser LOG     [v0] Dashboard - Courses: 5 Users: 7 Active: 5
+[02:02:20.198] Browser LOG     [v0] Fetched programs: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"}],"limit":10,"page":1,"pages":1,"total":5}
+[02:02:29.609] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:02:29.939] Browser LOG     [v0] Fetched programs: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"}],"limit":10,"page":1,"pages":1,"total":5}
+[02:02:30.618] Browser LOG     [v0] Dashboard - Courses: 5 Users: 7 Active: 5
+[02:02:33.093] Browser LOG     [v0] Fetched users: {"items":[{"created_at":"2025-11-23T01:45:02.447Z","email":"admin@coursesystem.com","full_name":"System Admin","id":1,"role":"admin"},{"created_at":"2025-11-23T01:45:02.545Z","email":"user1@example.com","full_name":"John Doe","id":2,"role":"user"},{"created_at":"2025-11-23T01:45:02.546Z","email":"user2@example.com","full_name":"Jane Smith","id":3,"role":"user"},{"created_at":"2025-11-23T01:45:02.548Z","email":"user3@example.com","full_name":"Bob Johnson","id":4,"role":"user"},{"created_at":"2025-11-23T03:25:39.113Z","email":"test1763868338731@example.com","full_name":"Test User","id":5,"role":"user"},{"created_at":"2025-11-23T03:25:39.277Z","email":"login-test@example.com","full_name":"Login Test","id":6,"role":"user"},{"created_at":"2025-11-23T21:26:27.862Z","email":"oliverborda04@outlook.com","full_name":"oliver borda","id":8,"role":"user"}],"limit":10,"page":1,"pages":1,"total":7}
+[02:02:35.274] Browser LOG     [v0] Fetched programs: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"}],"limit":10,"page":1,"pages":1,"total":5}
+[02:02:36.853] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:08:20.195Z","full_name":"System Admin","id":1},{"email":"oliverborda04@outlook.com","enrolled_at":"2025-11-23T23:10:12.561Z","full_name":"oliver borda","id":8}]}
+[02:02:36.853] Browser LOG     [v0] Parsed users list: []
+[02:03:08.783] Browser LOG     [v0] Fetching available users for program: 6
+[02:03:08.939] Browser LOG     [v0] All users fetched: {"items":[{"created_at":"2025-11-23T01:45:02.447Z","email":"admin@coursesystem.com","full_name":"System Admin","id":1,"role":"admin"},{"created_at":"2025-11-23T01:45:02.545Z","email":"user1@example.com","full_name":"John Doe","id":2,"role":"user"},{"created_at":"2025-11-23T01:45:02.546Z","email":"user2@example.com","full_name":"Jane Smith","id":3,"role":"user"},{"created_at":"2025-11-23T01:45:02.548Z","email":"user3@example.com","full_name":"Bob Johnson","id":4,"role":"user"},{"created_at":"2025-11-23T03:25:39.113Z","email":"test1763868338731@example.com","full_name":"Test User","id":5,"role":"user"},{"created_at":"2025-11-23T03:25:39.277Z","email":"login-test@example.com","full_name":"Login Test","id":6,"role":"user"},{"created_at":"2025-11-23T21:26:27.862Z","email":"oliverborda04@outlook.com","full_name":"oliver borda","id":8,"role":"user"}],"limit":100,"page":1,"pages":1,"total":7}
+[02:03:08.939] Browser LOG     [v0] Enrolled users fetched: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:08:20.195Z","full_name":"System Admin","id":1},{"email":"oliverborda04@outlook.com","enrolled_at":"2025-11-23T23:10:12.561Z","full_name":"oliver borda","id":8}]}
+[02:03:12.514] Browser LOG     [v0] Enrolling user: 1 to program: 6
+[02:03:12.514] Browser ERROR   [v0] Failed to enroll user: {}
+[02:03:19.599] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:08:20.195Z","full_name":"System Admin","id":1},{"email":"oliverborda04@outlook.com","enrolled_at":"2025-11-23T23:10:12.561Z","full_name":"oliver borda","id":8}]}
+[02:03:19.599] Browser LOG     [v0] Parsed users list: []
+[02:08:17.909] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:08:18.347] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:08:20.195Z","full_name":"System Admin","id":1},{"email":"oliverborda04@outlook.com","enrolled_at":"2025-11-23T23:10:12.561Z","full_name":"oliver borda","id":8}]}
+[02:08:18.347] Browser LOG     [v0] Parsed users list: []
+[02:08:20.452] Browser LOG     [v0] Fetching available users for program: 6
+[02:08:20.452] Browser LOG     [v0] All users fetched: {"items":[{"created_at":"2025-11-23T01:45:02.447Z","email":"admin@coursesystem.com","full_name":"System Admin","id":1,"role":"admin"},{"created_at":"2025-11-23T01:45:02.545Z","email":"user1@example.com","full_name":"John Doe","id":2,"role":"user"},{"created_at":"2025-11-23T01:45:02.546Z","email":"user2@example.com","full_name":"Jane Smith","id":3,"role":"user"},{"created_at":"2025-11-23T01:45:02.548Z","email":"user3@example.com","full_name":"Bob Johnson","id":4,"role":"user"},{"created_at":"2025-11-23T03:25:39.113Z","email":"test1763868338731@example.com","full_name":"Test User","id":5,"role":"user"},{"created_at":"2025-11-23T03:25:39.277Z","email":"login-test@example.com","full_name":"Login Test","id":6,"role":"user"},{"created_at":"2025-11-23T21:26:27.862Z","email":"oliverborda04@outlook.com","full_name":"oliver borda","id":8,"role":"user"}],"limit":100,"page":1,"pages":1,"total":7}
+[02:08:20.452] Browser LOG     [v0] Enrolled users fetched: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:08:20.195Z","full_name":"System Admin","id":1},{"email":"oliverborda04@outlook.com","enrolled_at":"2025-11-23T23:10:12.561Z","full_name":"oliver borda","id":8}]}
+[02:08:22.908] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:08:20.195Z","full_name":"System Admin","id":1},{"email":"oliverborda04@outlook.com","enrolled_at":"2025-11-23T23:10:12.561Z","full_name":"oliver borda","id":8}]}
+[02:08:22.908] Browser LOG     [v0] Parsed users list: []
+[02:08:59.187] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:08:59.581] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:08:20.195Z","full_name":"System Admin","id":1},{"email":"oliverborda04@outlook.com","enrolled_at":"2025-11-23T23:10:12.561Z","full_name":"oliver borda","id":8}]}
+[02:08:59.581] Browser LOG     [v0] Parsed users list: []
+[02:09:04.156] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T23:08:20.195Z","full_name":"System Admin","id":1},{"email":"oliverborda04@outlook.com","enrolled_at":"2025-11-23T23:10:12.561Z","full_name":"oliver borda","id":8}]}
+[02:09:04.156] Browser LOG     [v0] Parsed users list: []
+[02:09:12.068] Browser LOG     Programas obtenidos: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"}],"limit":10,"page":1,"pages":1,"total":5}
+[02:09:13.557] Browser LOG     [v0] Users data response: {"program":{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},"users":[{"email":"admin@coursesystem.com","enrolled_at":"2025-11-23T01:45:02.567Z","full_name":"System Admin","id":1},{"email":"user1@example.com","enrolled_at":"2025-11-23T01:45:02.569Z","full_name":"John Doe","id":2}]}
+[02:09:13.557] Browser LOG     [v0] Parsed users list: []
+[02:11:19.501] Browser LOG     Programas obtenidos: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"}],"limit":10,"page":1,"pages":1,"total":5}
+[02:11:24.347] Server  LOG      ○ Compiling /dashboard ...
+[02:11:29.359] Browser LOG     Programas obtenidos: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"}],"limit":10,"page":1,"pages":1,"total":5}
+[02:11:35.535] Browser LOG     Programas obtenidos: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"}],"limit":10,"page":1,"pages":1,"total":5}
+[02:11:39.010] Browser LOG     Programas obtenidos: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"}],"limit":10,"page":1,"pages":1,"total":5}
+[02:11:43.854] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:11:44.185] Browser LOG     Programas obtenidos: {"items":[{"created_at":"2025-11-23T01:45:02.556Z","description":"Complete MERN stack course","id":3,"name":"Full Stack Development","start_date":"2024-03-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T01:45:02.556Z"},{"created_at":"2025-11-23T02:07:04.680Z","description":"Learn advanced TypeScript concepts","id":4,"name":"Advanced TypeScript","start_date":"2024-04-01T05:00:00.000Z","status":"active","updated_at":"2025-11-23T02:07:04.680Z"},{"created_at":"2025-11-23T03:25:39.122Z","description":"Test Description","id":5,"name":"Test Program","start_date":"2024-01-15T05:00:00.000Z","status":"active","updated_at":"2025-11-23T03:25:39.122Z"},{"created_at":"2025-11-23T01:45:02.554Z","description":"Node.js avanzado y Express","id":2,"name":"Dominio de Node.js","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T21:38:46.716Z"},{"created_at":"2025-11-23T23:07:54.455Z","description":"prueba","id":6,"name":"Test","start_date":"2025-11-23T05:00:00.000Z","status":"active","updated_at":"2025-11-23T23:07:54.455Z"}],"limit":10,"page":1,"pages":1,"total":5}
+[02:11:47.142] Browser LOG     Usuarios obtenidos: {"items":[{"created_at":"2025-11-23T01:45:02.447Z","email":"admin@coursesystem.com","full_name":"System Admin","id":1,"role":"admin"},{"created_at":"2025-11-23T01:45:02.545Z","email":"user1@example.com","full_name":"John Doe","id":2,"role":"user"},{"created_at":"2025-11-23T01:45:02.546Z","email":"user2@example.com","full_name":"Jane Smith","id":3,"role":"user"},{"created_at":"2025-11-23T01:45:02.548Z","email":"user3@example.com","full_name":"Bob Johnson","id":4,"role":"user"},{"created_at":"2025-11-23T03:25:39.113Z","email":"test1763868338731@example.com","full_name":"Test User","id":5,"role":"user"},{"created_at":"2025-11-23T03:25:39.277Z","email":"login-test@example.com","full_name":"Login Test","id":6,"role":"user"},{"created_at":"2025-11-23T21:26:27.862Z","email":"oliverborda04@outlook.com","full_name":"oliver borda","id":8,"role":"user"}],"limit":10,"page":1,"pages":1,"total":7}

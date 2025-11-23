@@ -1,0 +1,9 @@
+{
+  "/(protected)/admin/courses/page": "app/(protected)/admin/courses/page.js",
+  "/(protected)/admin/courses/[id]/page": "app/(protected)/admin/courses/[id]/page.js",
+  "/(protected)/admin/courses/new/page": "app/(protected)/admin/courses/new/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/(protected)/admin/courses/[id]/enroll/page": "app/(protected)/admin/courses/[id]/enroll/page.js",
+  "/(protected)/dashboard/page": "app/(protected)/dashboard/page.js",
+  "/(protected)/admin/users/page": "app/(protected)/admin/users/page.js"
+}
