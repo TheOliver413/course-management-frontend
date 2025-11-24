@@ -2,7 +2,7 @@ export class APIClient {
     private baseURL: string
     private token: string | null = null
 
-    constructor(baseURL = "http://localhost:5000") {
+    constructor(baseURL = "https://course-management-backend.vercel.app") {
         this.baseURL = baseURL
         if (typeof window !== "undefined") {
             this.token = localStorage.getItem("auth_token")
